@@ -1,4 +1,6 @@
-# FlappyBirdie# Overview
+# FlappyBirdie
+
+# Overview
 
 n this project, I am using Unity to create a Flappy Bird game. This is the first time I used Unity. The project's purpose is to help me learn Unity's basics. The requirements I fulfilled in this project:
 
@@ -22,8 +24,8 @@ n this project, I am using Unity to create a Flappy Bird game. This is the first
 <!-- VS Code -->
 <img src="https://api.iconify.design/mdi:visual-studio-code.svg" height="40" alt="VS Code" /> VS CODE
 
-<!-- Visual Studio (usando link da Wikimedia Commons) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" height="40" alt="Visual Studio" /> VISUAL STUDIO
+<!-- Visual Studio (imagem PNG hospedada no GitHub) -->
+<img src="https://github.com/microsoft/fluentui-system-icons/blob/main/assets/VisualStudioLogo/color/VisualStudioLogo_color_48x48.png?raw=true" height="40" alt="Visual Studio" /> VISUAL STUDIO
 
 <!-- Unity -->
 <img src="https://cdn.simpleicons.org/unity/000000" height="40" alt="Unity" /> UNITY

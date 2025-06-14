@@ -7,10 +7,11 @@ n this project, I am using Unity to create a Flappy Bird game. This is the first
     ✔️ The game should have moveable objects
     ✔️ Add music or sound effects to the game.
 
-📍 The Flappy Bird game has an initial screen where the player adds their name and the play button to start the game.
-📍 The game screen displays the score number at the top left and the player's name at the top right.
-📍 The objective of the game is to keep the bird flying. To do this, the player will press the 'Space Key' and control the bird so that it can pass through the middle of two pipes. The pipes come continually and their position is randomly set.
-📍 Every time the bird passes between the pipes, one point is added to the score.
+
+    📍 The Flappy Bird game has an initial screen where the player adds their name and the play button to start the game.
+    📍 The game screen displays the score number at the top left and the player's name at the top right.
+    📍 The objective of the game is to keep the bird flying. To do this, the player will press the 'Space Key' and control the bird so that it can pass through the middle of two pipes. The pipes come continually and their position is randomly set.
+    📍 Every time the bird passes between the pipes, one point is added to the score.
 
 
 
@@ -21,14 +22,14 @@ n this project, I am using Unity to create a Flappy Bird game. This is the first
 <!-- VS Code -->
 <img src="https://api.iconify.design/mdi:visual-studio-code.svg" height="40" alt="VS Code" /> VS CODE
 
-<!-- Visual Studio -->
-<img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio" /> VISUAL STUDIO
+<!-- Visual Studio (usando link da Wikimedia Commons) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" height="40" alt="Visual Studio" /> VISUAL STUDIO
 
 <!-- Unity -->
 <img src="https://cdn.simpleicons.org/unity/000000" height="40" alt="Unity" /> UNITY
 
-<!-- C# -->
-<img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="C#" /> C#
+<!-- C# (usando link alternativo, pois não há ícone oficial do C# na Simple Icons) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="40" alt="C#" /> C#
 
 # Useful Websites
 

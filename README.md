@@ -25,7 +25,7 @@ n this project, I am using Unity to create a Flappy Bird game. This is the first
 <img src="https://api.iconify.design/mdi:visual-studio-code.svg" height="40" alt="VS Code" /> VS CODE
 
 <!-- Visual Studio (imagem PNG hospedada no GitHub) -->
-<img src="https://github.com/microsoft/fluentui-system-icons/blob/main/assets/VisualStudioLogo/color/VisualStudioLogo_color_48x48.png?raw=true" height="40" alt="Visual Studio" /> VISUAL STUDIO
+<img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" height="40" alt="Visual Studio" /> VISUAL STUDIO
 
 <!-- Unity -->
 <img src="https://cdn.simpleicons.org/unity/000000" height="40" alt="Unity" /> UNITY

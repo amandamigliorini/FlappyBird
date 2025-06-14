@@ -31,7 +31,7 @@ n this project, I am using Unity to create a Flappy Bird game. This is the first
 <img src="https://cdn.simpleicons.org/unity/000000" height="40" alt="Unity" /> UNITY
 
 <!-- C# (usando link alternativo, pois não há ícone oficial do C# na Simple Icons) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="40" alt="C#" /> C#
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="80" alt="C#" /> C#
 
 # Useful Websites
 

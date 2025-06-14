@@ -17,7 +17,7 @@ n this project, I am using Unity to create a Flappy Bird game. This is the first
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/cW8QduMLib8)
 
 # Development Environment
 
@@ -31,11 +31,10 @@ n this project, I am using Unity to create a Flappy Bird game. This is the first
 <img src="https://cdn.simpleicons.org/unity/000000" height="40" alt="Unity" /> UNITY
 
 <!-- C# (usando link alternativo, pois não há ícone oficial do C# na Simple Icons) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="80" alt="C#" /> C#
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="60" alt="C#" /> C#
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Unity Documentation](https://docs.unity.com/en-us)
 * [Unity Tutorial](https://www.youtube.com/watch?v=XtQMytORBmM)
 * [FlappyBird Tutorial](https://www.youtube.com/watch?v=ihvBiJ1oC9U)

@@ -12,6 +12,8 @@ public class LogicScript : MonoBehaviour
 
     public void addScore(int scoreToAdd)
     {
+        //increase the score by the value set on the game
+        //plays a sound every time
         playerScore = playerScore + scoreToAdd;
         scoreText.text = playerScore.ToString();
         pointSound.Play();
@@ -19,11 +21,13 @@ public class LogicScript : MonoBehaviour
 
     public void restartGame()
     {
+        // restart the scene
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void gameOver()
     {
+        //shows the game over screen 
         gameOverScreen.SetActive(true);
     }
 }
